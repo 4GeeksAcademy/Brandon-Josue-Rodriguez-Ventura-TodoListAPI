@@ -9,3 +9,29 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.hover-red:hover {
+    color: black !important;
+    cursor: pointer;
+  }
+  
+
+  .margin-done {
+    border: 2px solid black;
+    margin: 10px; 
+  }
+  
+
+  .margin-no-done {
+    border: 2px solid black;
+    margin: 10px;
+  }
+  .custom-background {
+    background-color: #3f4454;
+  }
+  .custom-background-body{
+    background-color: #1f2020;
+  }
+  
+
+  
